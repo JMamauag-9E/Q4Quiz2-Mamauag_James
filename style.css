@@ -1,0 +1,21 @@
+body {
+	color: darkblue;
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	border: 5px solid black;
+}
+
+.container {
+	background: lightcyan;
+	border: 5px solid blue;
+}
+
+.initials {
+	text-align: center;
+}
